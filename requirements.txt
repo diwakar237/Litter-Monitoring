@@ -1,0 +1,6 @@
+gradio>=4.36.0
+ultralytics>=8.2.0
+opencv-python-headless>=4.9.0
+pandas>=2.2.0
+numpy>=1.26.0
+supabase>=2.5.0
